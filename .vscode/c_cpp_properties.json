@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/etc/include",
+                "/usr/local/include/cdk",
+                "/usr/local/include",
+                "/usr/include",
+                "/usr/include/ncursesw",
+                "/usr/src/linux-headers-4.15.0-45/include",
+                "/usr/src/amdgpu-18.50-708488/include",
+                "/usr/src/linux-headers-4.15.0-44-generic/include",
+                "/usr/src/linux-headers-4.15.0-45-generic/include",
+                "/usr/src/linux-headers-4.15.0-44/include"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64", ""
+        }
+    ],
+    "version": 4
+}
